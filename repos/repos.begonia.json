@@ -7,7 +7,7 @@
       "astera": {
         "name": "Baratynsky",
         "repo": "https://github.com/Jbub5/android_kernel_xiaomi_mt6768",
-        "branch": "kernel-tree"
+        "branch": "lineage-21"
       },
       "power": {
         "name": "Power",
