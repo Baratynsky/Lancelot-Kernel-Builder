@@ -1,13 +1,13 @@
 [
   {
-    "kernelName": "Astera",
+    "kernelName": "Baratynsky",
     "kernelSource": {
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig",
+      "device": "lancelot",
+      "defconfig": "lancelot_defconfig",
       "astera": {
-        "name": "Astera",
-        "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-        "branch": "fifteen"
+        "name": "Baratynsky",
+        "repo": "https://github.com/Jbub5/android_kernel_xiaomi_mt6768",
+        "branch": "kernel-tree"
       },
       "power": {
         "name": "Power",
