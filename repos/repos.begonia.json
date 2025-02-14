@@ -7,7 +7,7 @@
       "astera": {
         "name": "Baratynsky",
         "repo": "https://github.com/Jbub5/android_kernel_xiaomi_mt6768",
-        "branch": "lineage-21"
+        "branch": "kernel-tree-wip2"
       },
       "power": {
         "name": "Power",
@@ -60,8 +60,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/cvnertnc/AnyKernel3/",
-      "branch": "begonia"
+      "repo": "https://github.com/osm0sis/AnyKernel3/",
+      "branch": "master"
     }
   }
 ]
